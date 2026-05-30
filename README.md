@@ -8,7 +8,7 @@ Je combine une solide expertise agronomique de terrain au Sahel (diagnostics d'e
 
 ### 🚀 Projet Phare : R&D, Simulation Variétale & Phénotypage Drone (Auto-formation & Valorisation)
 
-#### 🔬 [peaboost-yield-analytics](https://github.com/ibalde006-boop)
+#### 🔬 [peaboost-yield-analytics](https://github.com/ibalde006-boop/peaboost-yield-analytics)
 *   **Contexte et Résilience :** Projet d'ingénierie statistique développé en autonomie (Master 2 ASAD, USSEIN)[cite: 2]. Suite à la restructuration du stage PeaBoost 2026[cite: 2], j'ai conçu ce pipeline complet basé sur la **génération et la simulation de données agronomiques complexes** (8 génotypes de pois x 4 environnements x 2 campagnes 2025-2026) afin de maîtriser concrètement les outils de pointe de la sélection végétale[cite: 2].
 *   **Architecture & Pipelines R implémentés :**
     *   **Modèles Mixtes (`lme4`, `lmerTest`, `emmeans`) :** Évaluation des effets fixes (Génotype, Environnement, Campagne, Interaction G×E) et aléatoires (Répétition dans l'Environnement) sur le rendement grain[cite: 2]. Calcul des moyennes marginales estimées et classification par test de comparaison multiple de Tukey[cite: 2].
