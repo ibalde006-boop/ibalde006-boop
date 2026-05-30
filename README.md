@@ -24,7 +24,7 @@ Je combine une solide expertise agronomique de terrain au Sahel (diagnostics d'e
 *   **Ancrage Réel :** Chargé de Cartographie chez NOURSERVI (Zone Sokone et Toubacouta)[cite: 1].
 *   **Détails Techniques :** Structuration de bases de données géospatiales sous QGIS pour la certification biologique de **150 producteurs d’anacarde** (délimitation de parcelles et analyse cartographique)[cite: 1].
 
-#### 🌾 [[sorgho-agroecology-analytics](https://github.com/ibalde006-boop/sorgho-agroecology-analytics)
+#### 🌾 [sorgho-agroecology-analytics](https://github.com/ibalde006-boop/sorgho-agroecology-analytics)
 *   **Ancrage Réel :** Responsable de production Sorgho (Campagne hivernale 2025) – Projet PEA-PETTAL (Ferme Intégrée USSEIN, Mbadakhoune)[cite: 1].
 *   **Détails Techniques :** Suivi rigoureux des itinéraires techniques, diagnostics phytosanitaires de terrain et gestion de pépinières agroécologiques[cite: 1].
 
