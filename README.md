@@ -20,7 +20,7 @@ Je combine une solide expertise agronomique de terrain au Sahel (diagnostics d'e
 
 ### 💼 Portfolio : Projets Techniques & Expériences Terrain
 
-#### 🛰️ [qgis-anacarde-bio-cartography](https://github.com/ibalde006-boop)
+#### 🛰️ [qgis-anacarde-bio-cartography](https://github.com/ibalde006-boop/qgis-anacarde-bio-cartography)
 *   **Ancrage Réel :** Chargé de Cartographie chez NOURSERVI (Zone Sokone et Toubacouta)[cite: 1].
 *   **Détails Techniques :** Structuration de bases de données géospatiales sous QGIS pour la certification biologique de **150 producteurs d’anacarde** (délimitation de parcelles et analyse cartographique)[cite: 1].
 
