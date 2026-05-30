@@ -28,7 +28,7 @@ Je combine une solide expertise agronomique de terrain au Sahel (diagnostics d'e
 *   **Ancrage Réel :** Responsable de production Sorgho (Campagne hivernale 2025) – Projet PEA-PETTAL (Ferme Intégrée USSEIN, Mbadakhoune)[cite: 1].
 *   **Détails Techniques :** Suivi rigoureux des itinéraires techniques, diagnostics phytosanitaires de terrain et gestion de pépinières agroécologiques[cite: 1].
 
-#### 📊 [agri-survey-data-pipeline](https://github.com/ibalde006-boop)
+#### 📊[agri-survey-data-pipeline](https://github.com/ibalde006-boop/agri-survey-data-pipeline)
 *   **Ancrage Réel :** Enquêtes et recensements d'envergure (ANSD - RGPH-5, PULA Advisor au bassin de l'Anambé)[cite: 1].
 *   **Détails Techniques :** Collecte via KoboToolbox, nettoyage, structuration et traitement statistique de données d'enquêtes socio-économiques et rizicoles complexes[cite: 1].
 
