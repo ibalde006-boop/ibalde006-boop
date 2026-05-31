@@ -1,4 +1,4 @@
-# Ibrahima BALDE 🌍🌱
+# Ibrahima BALDE 
 **Agricultural Data Scientist & Agroécologiste**  
 *M.Sc. Agroécologie et Systèmes Alimentaires Durables (USSEIN) | Spécialiste R, Python & Télédétection Drone*
 
@@ -55,7 +55,7 @@ Je combine une solide expertise agronomique de terrain au Sahel (diagnostics d'e
 
 ---
 
-### 📜 Certifications Officielles Épinglées
+### 📜 Certifications Officielles 
 
 *   **Statistique pour l'ingénieur, Mathematical Statistics and Probability** — *Institut Mines-Télécom Business School*[cite: 1]
 *   **Python : des fondamentaux aux concepts avancés du langage** — *Université Côte d'Azur*[cite: 1]
@@ -69,4 +69,4 @@ Je combine une solide expertise agronomique de terrain au Sahel (diagnostics d'e
 ### 👥 Leadership & Engagements
 *   **Président de la Commission Sociale du Master ASAD :** Gestion des allocations, du logement et de la santé des étudiants de la promotion[cite: 1].
 
-📬 **Explorons de nouvelles synergies :** [Mon Profil LinkedIn](https://www.linkedin.com/in/ibrahima-bald%C3%A9-42210322b/) | 📧 ibalde006@gmail.com
+**Explorons de nouvelles synergies :** [Mon Profil LinkedIn](https://www.linkedin.com/in/ibrahima-bald%C3%A9-42210322b/) | 📧 ibalde006@gmail.com
